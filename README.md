@@ -11,7 +11,9 @@
 💞️ I’m looking to collaborate on Data Analytics projects, dashboards, and real-world business case studies.  
 
 📫 How to reach me:  
-LinkedIn: Anuj Dubey  
+LinkedIn: https://www.linkedin.com/in/anuj-dubey-b97b6a263
+
+ 
 
 ⚡ Fun fact: I love turning raw data into meaningful stories that help in decision making.  
 
